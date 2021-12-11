@@ -36,12 +36,12 @@ For further details, check [[membership and roles]] and refer the [[skill table]
 
 How to reach us:
 
-[Twitter](https://twitter.com/AssemblyTheClub) 
-[Email](mailto:assembly.the.club@gmail.com)
+- [Twitter](https://twitter.com/AssemblyTheClub) 
+- [Email](mailto:assembly.the.club@gmail.com)
 
 Other media channels:
 
--[Youtube](https://www.youtube.com/channel/UC24n4fEhQ3daefcCKV4FByw)
+- [Youtube](https://www.youtube.com/channel/UC24n4fEhQ3daefcCKV4FByw)
 - [Medium](https://medium.com/@assemblyindia.club)
 - [Substack](https://assemblyindia.substack.com/)
 - Mirror ( Coming Soon )
