@@ -47,9 +47,10 @@ Other media channels:
 - Mirror ( Coming Soon )
 - Website ( Coming Soon )
 
-To Apply:
+Enquiry
 
-If you are interested in joining the community, please write a mail to [Gaurav Singh](mailto:gauravkorlasingh@gmail.com) with subject line - `Assembly Inquiry`.
+- **Apprenticeship Enquiry** - If you are interested in joining the community, please write a mail to [Assembly India](mailto:assembly.the.club@gmail.com) with subject line - `Assembly Inquiry - Apprenticeship`.
+- **Hire Us** - If you are interested in hiring developers from the community, please shoot a mail to [Gaurav Singh](mailto:gauravkorlasingh@gmail.com) with subject line - `Assembly Inquiry - For Hire`.
 
 
 
